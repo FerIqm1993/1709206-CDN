@@ -27,7 +27,11 @@ body {
 
 .card-custom:hover {
     transform: scale(1.05);
+<<<<<<< HEAD
+    border-color: yellow;
+=======
     border-color: greenyellow;
+>>>>>>> 2750dc9993267e7cb62ffea0294b2d7a2c120f1f
 }
 
 .footer {
